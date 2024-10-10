@@ -27,7 +27,7 @@ Criar um servidor de Minecraft permite construir experiências de jogo personali
 ## Hospedagem e Escolha da Versão
 
 ### Hospedagem
-- Você pode escolher entre **hospedagem local** ou **serviços dedicados**. A hospedagem local é ideal para testes, enquanto serviços dedicados como **Apex Hosting** ou **XMXCloud** oferecem melhor desempenho e tempo de atividade.
+- Você pode escolher entre **hospedagem local** ou **serviços dedicados**. A hospedagem local é ideal para testes, enquanto serviços dedicados como **MagnoHost** ou **LunarHosting** oferecem melhor desempenho e tempo de atividade.
 
 ### Versão
 - A escolha da versão correta é fundamental para a compatibilidade com os plugins. As versões mais comumente suportadas para servidores são **1.19.x** e **1.20.x**.
