@@ -2,7 +2,7 @@
 
 Aqui estão os plugins essenciais que formam a base de um servidor Minecraft.
 
-## EssentialsX
+## EssentialsX / System
 - Oferece comandos básicos de gerenciamento do servidor, como `/home`, `/spawn`, `/warp`, entre outros.
 - Gerencia recursos de economia, como moedas virtuais.
 
