@@ -102,7 +102,7 @@ Aqui está um guia passo a passo para configurar um mundo customizado usando Wor
 
 Depois de dominar os fundamentos de configurar um servidor Minecraft, aqui estão algumas ideias para expandir:
 - Aprenda a criar **mini-jogos** ou eventos personalizados usando MythicMobs.
-- Explore mods para jogabilidade avançada (por exemplo, **Pixelmon** ou **MMOItems**).
+- Explore mods para jogabilidade avançada (por exemplo, **Pixelmon** ou **Jujutsu Kaizen**).
 - Construa uma comunidade em torno do seu servidor com um site ou Discord.
 
 Para dúvidas ou problemas, sinta-se à vontade para abrir uma issue ou contribuir com este repositório!
